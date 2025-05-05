@@ -1,6 +1,5 @@
 import React from 'react'
 import { View,StyleSheet } from 'react-native'
-import Estilo from '../estilo'
 import Quadrado from './Quadrado'
 
 export default props => {
